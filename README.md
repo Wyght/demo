@@ -7,4 +7,5 @@ I used a previous 'free' simple and quick course from
 udemy.com and now I am learning from github-ultimate
 on udemy.com
 
+I am planning on causing a conflict to learn about conflict
 This does not seem to be the same conflict line
