@@ -14,3 +14,5 @@ modified file
 git stash = saves work in progress WIP
 git stash list - shows list of stash wip
 git stash pop - pops stashed wip
+
+no reason learning only
