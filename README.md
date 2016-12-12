@@ -11,3 +11,6 @@ I am planning on causing a conflict to learn about conflict
 This does not seem to be the same conflict line
 
 modified file
+git stash = saves work in progress WIP
+git stash list - shows list of stash wip
+git stash pop - pops stashed wip
